@@ -1,6 +1,6 @@
 class Queue():
     def __init__(self):
-        ln = []
+        self.ln = []
         
 
     #REMOVE PASS AND COMPLETE THE FUNCTION
